@@ -2,7 +2,7 @@
 
 A desktop application developed in C# and .NET for managing volunteers and educational assistance requests.
 
-This project was developed as an academic project by two students and demonstrates the implementation of a multi-layer software architecture.
+This was my first C#/.NET desktop application, developed with another student as an academic project. We focused on layered architecture, business logic, and XML data storage, with a functional WPF interface.
 
 ## Screenshots
 
