@@ -62,3 +62,24 @@ Academic project developed by two students.
 ## 🎓 Purpose
 
 The project was created as part of our software development studies to practice object-oriented programming, layered architecture, data persistence, testing, and desktop application development.
+
+## Getting Started
+
+### Requirements
+- Windows
+- Visual Studio with the .NET desktop development workload
+- .NET 8 SDK
+
+### Run the application
+1. Download or clone this repository.
+2. Open `dotNet5785_9837_4238/dotNet5785_9837_4238.sln` in Visual Studio.
+3. Set `PL` as the startup project.
+4. Press F5 to run.
+
+### Demo manager account
+- ID: `147142541`
+- Password: `check@yes`
+
+After logging in, select Yes to open the manager dashboard.
+
+All included sample data is fictional.
