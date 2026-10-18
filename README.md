@@ -6,9 +6,9 @@ This project was developed as an academic project by two students and demonstrat
 
 ## Screenshots
 
-<img width="1060" height="817" alt="Capture d&#39;écran 2026-10-18 153211" src="https://github.com/user-attachments/assets/54ea7837-1748-410f-93c2-90a445b3c446" />
-<img width="858" height="667" alt="Capture d&#39;écran 2026-10-18 153115" src="https://github.com/user-attachments/assets/ec93aa82-01d5-4015-be3e-58bae9f27ab6" />
 <img width="1062" height="831" alt="Capture d&#39;écran 2026-10-18 153027" src="https://github.com/user-attachments/assets/6fc03ef9-9e2b-4a5a-8a6a-08c636c71687" />
+<img width="858" height="667" alt="Capture d&#39;écran 2026-10-18 153115" src="https://github.com/user-attachments/assets/ec93aa82-01d5-4015-be3e-58bae9f27ab6" />
+<img width="1060" height="817" alt="Capture d&#39;écran 2026-10-18 153211" src="https://github.com/user-attachments/assets/54ea7837-1748-410f-93c2-90a445b3c446" />
 
 
 
